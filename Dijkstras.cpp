@@ -1,6 +1,5 @@
 /**
  * QUESTIONS:
- * 
  * 1. In Dijkstra's algorithm, what data structure do we
  *    use to traverse our nodes in the proper order?
  * 
@@ -27,8 +26,5 @@
  * 
  * 7. After performing Dijkstra's algorithm, how can we obtain the
  *    path from the source node S to the destination node D?
- *    
- * 8. How would the time complexity change for each sub operation
- *    if we used a sorted list instead of a priority queue?
  *  
  **/

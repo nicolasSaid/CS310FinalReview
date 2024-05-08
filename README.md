@@ -9,5 +9,4 @@
     <li> GraphTraversals.cpp
     <li> Dijkstras.cpp
     <li> MST.cpp
-    <li> AVL.cpp
 </ul>

@@ -19,7 +19,6 @@
  *  6. Explain *why* each of the above algorithms has the
  *     run-time complexity that it does.
  * 
- * 
  * PRACTICE:
  * 1. Given the graph below, perform a BFS and DFS from the
  *    starting node 1 and write a valid Breadth first tree

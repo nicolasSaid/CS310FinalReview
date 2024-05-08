@@ -4,6 +4,7 @@
  *    encounter (hint: it has to do with direction and 
  *    distance)
  * 
+ * 
  * 2. What does a node being white, grey, or black mean?
  * 
  * 3. What is an adjacency list representation of a graph?

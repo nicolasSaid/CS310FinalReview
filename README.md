@@ -8,5 +8,8 @@
     <li> GraphRepresentations.cpp
     <li> GraphTraversals.cpp
     <li> Dijkstras.cpp
-    <li> MST.cpp
+    <li> LinkedList.cpp
+    <li> Trees.cpp
+    <li> Heaps.cpp
+    <li> HashTables.cpp
 </ul>

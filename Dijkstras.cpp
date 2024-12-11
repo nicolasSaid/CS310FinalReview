@@ -26,5 +26,4 @@
  * 
  * 7. After performing Dijkstra's algorithm, how can we obtain the
  *    path from the source node S to the destination node D?
- *  
  **/
